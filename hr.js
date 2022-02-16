@@ -50,17 +50,12 @@ employee.prototype.salary=function()
         }
     }
       
-
-for (var i = 0; i < employees.length; i++) {
-    console.log(employees[i]); }
+function rademployee(params) {
     
 
-
-
-
-
-
-
-
-
-
+for (var i = 0000; i < 9999; i++) {
+    this.employeeid=i
+}
+}
+let image=document.createElement("img")
+image.setAttribute("src", this.image )
